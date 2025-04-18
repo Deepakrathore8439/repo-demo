@@ -1,5 +1,5 @@
 # repo-demo
 This is a my first git repository
 <br>
-author - deepak rathore
+author - deepak rathore ji
 
